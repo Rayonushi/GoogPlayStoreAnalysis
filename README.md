@@ -1,6 +1,9 @@
 # GoogPlayStoreAnalysis
 Performing Analysis on Google Play Store Data using PowerBi
 
+![image](https://github.com/Rayonushi/GoogPlayStoreAnalysis/assets/91659975/10bf7fde-9d66-48e9-9df5-eb6078321b7c)
+
+
 To perform this project we need three things
 1. EC2 instance (AWS Free tier)
 2. MySQL Database
